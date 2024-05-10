@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+<h1 align="center">📷 CarInfoSnap</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">Solução completa para identificação veicular a partir de imagens.
+</h3>
+<h3 align="center">O CarInfoSnap utiliza inteligência artificial do Google Gemini para extrair automaticamente dados como marca, modelo, ano e características técnicas</h3>
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+ <a href="#objective">Objetivo</a> •
+ <a href="#technologies">Tecnologias</a> • 
+ <a href="#usage">Uso</a> • 
+ <a href="#contribution">Contribuição</a> • 
+ <a href="#author">Autor</a> • 
+ <a href="#license">Licensa</a>
+</p>
 
-### `npm start`
+<h1 align="center">
+  <img 
+       width="600" 
+       style="border-radius: 10px" 
+       height="auto" 
+       alt="level.up" 
+       title="Level Up" 
+       src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/22c79fb2-8e80-405e-85d6-269de3db287b" 
+    />
+<div style="display: flex; flex-direction: row;">
+  <img
+       width="400" 
+       style="border-radius: 10px; margin-right: 10px" 
+       height="auto" 
+       alt="level.up" 
+       title="Level Up" 
+       src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/e4c68df0-f52b-4276-bc29-1cd88be19f16"
+  />
+  <img 
+       width="400" 
+       style="border-radius: 10px; margin-right: 10px" 
+       height="auto" 
+       alt="level.up" 
+       title="Level Up" 
+       src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/982dbb33-f7c2-4abe-b316-e93c2a5e9594"
+   />
+  <div>
+  <div style="display: flex; flex-direction: row;">
+  <img 
+       width="400" 
+       style="border-radius: 10px" 
+       height="auto" 
+       alt="level.up" 
+       title="Level Up" 
+       src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/c67e42b1-6d09-4ba7-b37c-3c6508315e40" 
+   />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</h1>
+    
+<h2 id="objective" > 🎯 Objetivo </h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O projeto CarInfoSnap visa desenvolver uma ferramenta que utiliza inteligência artificial (IA) para identificar e extrair informações relevantes de imagens de veículos. Através da plataforma Gemini do Google, o CarInfoSnap será capaz de reconhecer a marca, modelo, ano e características técnicas, tudo isso com apenas uma foto.
+    
+<h2 id="technologies"> 🛠 Tecnologias </h2>
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
-### `npm test`
+- [ReactJS](https://reactjs.org)
+- [NodeJS](https://nodejs.org/en/)
+- [Npm](https://docs.npmjs.com/cli/v10/commands/npm-link)
+- [VSCode](https://code.visualstudio.com)
+- [Google Studio AI](https://aistudio.google.com/app/prompts/new_chat)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2 id="usage" > 👷 Uso </h2>
 
-### `npm run build`
+Required! Install git, node and yarn (or npm).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clonar repositório
+$ git clone https://github.com/PedroTeixeiraa/carinfosnap.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Ir para pasta do projeto
+$ cd carinfosnap
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Instalar dependências
+$ npm install
 
-### `npm run eject`
+# Criar um arquivo .env
+REACT_APP_GEMINI_APIKEY=
+Colocar sua API_KEY Gerada em https://aistudio.google.com/app/prompts/new_chat
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Rodar a aplicação
+$ npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Acesse localhost
+http://localhost:3000
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<h2 id="contribution"> 🤝 Contribuição </h2>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Este projeto também é para fins de estudo, então me envie um e-mail contando o que você está fazendo e por que está fazendo, me ensine o que você sabe. Todos os tipos de contribuições são muito bem-vindos e apreciados!
 
-## Learn More
+<h2 id="author"> 💻 Autor </h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54821438?v=4" width="100px;" alt=""/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+By Pedro Alves 👋🏽 Find me:
 
-### Code Splitting
+[![Linkedin Badge](https://img.shields.io/badge/-PedroTeixeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-teixeira-alves/)](https://www.linkedin.com/in/pedro-teixeira-alves/)
+[![Gmail Badge](https://img.shields.io/badge/-pedroteixeiraalves007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroteixeiraalves007@gmail.com)](mailto:pedroteixeiraalves007@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<h2 id="license"> 📝 Licensa </h2>
+<p>Este projeto está licenciado sob a licença MIT - veja a <a href="https://github.com/PedroTeixeiraa/carinfosnap/blob/main/LICENSE">LICENSA</a> arquivo para detalhes.</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<hr> </hr>
+<p> Made with 💜  by Pedro Teixeira 👋 <a href="https://www.linkedin.com/in/pedro-teixeira-alves/" rel="nofollow">See my linkedin</a> </p>
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
