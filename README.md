@@ -11,7 +11,7 @@
  <a href="#usage">Uso</a> • 
  <a href="#contribution">Contribuição</a> • 
  <a href="#author">Autor</a> • 
- <a href="#license">Licensa</a>
+ <a href="#license">Licença</a>
 </p>
 
 <h1 align="center">
@@ -23,35 +23,35 @@
        title="Level Up" 
        src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/22c79fb2-8e80-405e-85d6-269de3db287b" 
     />
-<div style="display: flex; flex-direction: row;">
+
   <img
-       width="400" 
        style="border-radius: 10px; margin-right: 10px" 
        height="auto" 
        alt="level.up" 
        title="Level Up" 
        src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/e4c68df0-f52b-4276-bc29-1cd88be19f16"
-  />
-  <img 
-       width="400" 
+  />  
+
+   <img 
        style="border-radius: 10px; margin-right: 10px" 
        height="auto" 
        alt="level.up" 
        title="Level Up" 
        src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/982dbb33-f7c2-4abe-b316-e93c2a5e9594"
-   />
-  <div>
-  <div style="display: flex; flex-direction: row;">
-  <img 
-       width="400" 
+   /> 
+
+   <img 
        style="border-radius: 10px" 
        height="auto" 
        alt="level.up" 
        title="Level Up" 
        src="https://github.com/PedroTeixeiraa/carinfosnap/assets/54821438/c67e42b1-6d09-4ba7-b37c-3c6508315e40" 
    />
-
+  
 </h1>
+
+## Google Studio AI
+![alt text](image.png)
     
 <h2 id="objective" > 🎯 Objetivo </h2>
 
@@ -106,7 +106,7 @@ By Pedro Alves 👋🏽 Find me:
 
 
 <h2 id="license"> 📝 Licensa </h2>
-<p>Este projeto está licenciado sob a licença MIT - veja a <a href="https://github.com/PedroTeixeiraa/carinfosnap/blob/main/LICENSE">LICENSA</a> arquivo para detalhes.</p>
+<p>Este projeto está licenciado sob a licença MIT - veja a <a href="https://github.com/PedroTeixeiraa/carinfosnap/blob/main/LICENSE">LICENÇA</a> arquivo para detalhes.</p>
 
 <hr> </hr>
 <p> Made with 💜  by Pedro Teixeira 👋 <a href="https://www.linkedin.com/in/pedro-teixeira-alves/" rel="nofollow">See my linkedin</a> </p>
